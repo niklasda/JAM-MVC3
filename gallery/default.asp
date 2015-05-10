@@ -1,0 +1,1 @@
+<% Response.Redirect("Imager.asp") %>
